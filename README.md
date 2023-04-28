@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/C4E16AQEu9h5hOmAtRg/profile-displaybackgroundimage-shrink_350_1400/0/1640492775277?e=1681344000&v=beta&t=k5AwYwX70c2-ZtsQZZuAX0FWMq5w0tPboD99Y0QJW0A" align="center" style="width: 100%" />
+<img src="https://qph.cf2.quoracdn.net/main-qimg-f92f0c6d13fb855607df6891d0703696" align="center" style="width: 100%" />
 </div>  
   
 
