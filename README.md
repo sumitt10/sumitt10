@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://qph.cf2.quoracdn.net/main-qimg-f92f0c6d13fb855607df6891d0703696" align="center" style="width: 100%" />
+<img src="https://drive.google.com/file/d/1--RAxvmUATzUulSHZz7jciqutGUMPsqG/view?usp=share_link" align="center" style="width: 100%" />
 </div>  
   
 
