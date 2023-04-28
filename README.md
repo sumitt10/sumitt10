@@ -1,5 +1,5 @@
 <div align="center">
-<img src="dashboard.png" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/C4E16AQEu9h5hOmAtRg/profile-displaybackgroundimage-shrink_350_1400/0/1640492775277?e=1687996800&v=beta&t=wskr1jg3aCcXiLwXTKc7ZmprHt9dO-hB0TJ3zALpIZk" align="center" style="width: 100%" />
 </div>  
   
 
