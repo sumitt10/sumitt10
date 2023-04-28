@@ -1,5 +1,5 @@
 <div align="center">
-<img src="dashboard.png" align="center" style="width: 100%" />
+<img src="sumitt10/dashboard.png" align="center" style="width: 100%" />
 </div>  
   
 
