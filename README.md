@@ -11,10 +11,10 @@ A passionate WEB Designer !!   😍😍</div>
 - 🔭 I’m currently pursuing my B.Tech degree in Information Technology  
   
 
-- 🌱 I’m currently learning REACT and PHP   
+- 🌱 I’m currently learning PHP & mySql   
   
 
-- ❓ Ask me about anything related to HTML , CSS , JS , jQuery , Bootstrap ...  
+- ❓ Ask me about anything related to Website Designing ( HTML, CSS, JS) , jQuery , Bootstrap ...  
   
 
 - ⚡ Fun fact : I think I am funny  
