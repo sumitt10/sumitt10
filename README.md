@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/C4E16AQEu9h5hOmAtRg/profile-displaybackgroundimage-shrink_350_1400/0/1640492775277?e=1687996800&v=beta&t=wskr1jg3aCcXiLwXTKc7ZmprHt9dO-hB0TJ3zALpIZk" align="center" style="width: 100%" />
-</div>  
-  
 
 ## <div align="center">Hi 👋, I'm Sumit Thigale
 
@@ -9,16 +5,11 @@ A passionate WEB Designer !!   😍😍</div>
   
 
 - 🔭 I’m currently pursuing my B.Tech degree in Information Technology  
-  
 
-- 🌱 I’m currently learning PHP & mySql   
+- 🌱 Exploring knowledge about PHP & mySql   
   
-
-- ❓ Ask me about anything related to Website Designing ( HTML, CSS, JS) , jQuery , Bootstrap ...  
-  
-
-- ⚡ Fun fact : I think I am funny  
-  
+- ❓ Ask me about anything related to WEB Designing ( HTML, CSS, JS) , jQuery , Bootstrap ...  
+    
 
 <br/>  
 
